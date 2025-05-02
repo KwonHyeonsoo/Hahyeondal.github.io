@@ -11,7 +11,8 @@
 </p>
   <span style="color: blue;">#공포#레이싱#퍼즐#스토리게임</span>
 
-<video src="image/video.mp4" controls width="600"></video>
+<video src="images/video.mp4" controls width="600"></video>
+<video src="https://kwonhyeonsoo.github.io/Hahyeondal.github.io/images/video.mp4" controls width="600"></video>
 
 
 </body>

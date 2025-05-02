@@ -1,2 +1,3 @@
-# Hahyeondal.github.io
-## 하현달 - 여우 낙하
+# SIDL
+**Welcome to the SIDL GitHub!**  
+The GitHub page is currently under construction. We will be back soon with the completed version!

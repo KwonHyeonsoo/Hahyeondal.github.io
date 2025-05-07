@@ -27,6 +27,40 @@
             border-radius: 5px;
             font-size: 14px;
         }
+            .footer-container {
+      display: flex;
+      justify-content: center;
+      gap: 40px;
+      padding: 50px 20px;
+      background-color: #1a1a1a;
+    }
+
+    .author-card {
+      background-color: #1c1c1c;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+      width: 300px;
+      text-align: center;
+    }
+
+    .author-card h3 {
+      margin: 0 0 10px;
+      font-size: 20px;
+    }
+
+    .author-card p {
+      margin: 5px 0;
+      font-size: 14px;
+      color: #ccc;
+    }
+
+    @media (max-width: 700px) {
+      .footer-container {
+        flex-direction: column;
+        align-items: center;
+      }
+    }
       </style>
 </head>
 <div  align="center">
@@ -59,6 +93,21 @@
   
 
 
+<!-- 다른 콘텐츠들 -->
 
+  <footer>
+    <div class="footer-container">
+      <div class="author-card">
+        <h3>작성자: 배현</h3>
+        <p>Email: honggildong@example.com</p>
+        <p>ⓒ 2025. All rights reserved.</p>
+      </div>
+      <div class="author-card">
+        <h3>작성자: 권현수</h3>
+        <p>Email: leesunsin@example.com</p>
+        <p>ⓒ 2025. All rights reserved.</p>
+      </div>
+    </div>
+  </footer>
 
 </body>

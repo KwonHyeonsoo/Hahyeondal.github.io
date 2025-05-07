@@ -4,7 +4,7 @@
 <body>
   
 <div  align="center">
-  <p style="font-size:50px;">
+  <p style="font-size:30px;">
 역사상 가장 큰 실패였던, 대규모 프로젝트 "K-9"… 왜 실패했던걸까?
   </p>
   <br><br>

@@ -25,8 +25,7 @@
 <br><br>
 <h1></h1>
 <div>
-배현 Email: qogus_@naver.com
-
-권현수 Email: 172839yes@naver.com
+기획 배현 Email: qogus_@naver.com
+개발 권현수 Email: 172839yes@naver.com
 </div>
 </body>

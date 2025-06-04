@@ -20,7 +20,9 @@
   <img src = "images/Ex02.jpg" width = 1200 alt = "Example 001" style="display: block; margin: auto;">
 </p>
   <span style="color: blue;">#공포#레이싱#퍼즐#스토리게임</span>
-
+<br><br>
+https://youtu.be/Z5AwBQtMCug
+<br><br>
 <video src="images/video.mp4" controls width="600"></video>
 <video src="https://kwonhyeonsoo.github.io/Hahyeondal.github.io/images/video.mp4" controls width="600"></video>
 
